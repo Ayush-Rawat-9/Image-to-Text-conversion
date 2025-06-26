@@ -1,5 +1,7 @@
  #Image-to-Text Converter using Generative AI
+ 
 ##✅ Features
+
 -Extracts text from images using OCR (Tesseract)
 -Understands and processes extracted text using Generative AI (GPT)
 -Allows interactive chat-like querying on image content
