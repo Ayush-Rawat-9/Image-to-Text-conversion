@@ -13,7 +13,7 @@
 - AI/LLM: OpenAI GPT API / HuggingFace Transformers
 - Interface (optional): Jupyter Notebook, Flask, Streamlit
 
-##📦 Requirements
+## 📦 Requirements
 - pytesseract, opencv-python, openai
 - Tesseract-OCR installed locally
 
