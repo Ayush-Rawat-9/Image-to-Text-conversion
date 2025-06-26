@@ -1,12 +1,11 @@
- #Image-to-Text Converter using Generative AI
+# Image-to-Text Converter using Generative AI
  
-##✅ Features
-
--Extracts text from images using OCR (Tesseract)
--Understands and processes extracted text using Generative AI (GPT)
--Allows interactive chat-like querying on image content
--Supports summarization, explanation, translation, and Q&A
--Can be extended with a Flask/Streamlit frontend
+## ✅ Features
+- Extracts text from images using OCR (Tesseract)
+- Understands and processes extracted text using Generative AI (GPT)
+- Allows interactive chat-like querying on image content
+- Supports summarization, explanation, translation, and Q&A
+- Can be extended with a Flask/Streamlit frontend
 
 ##🛠️ Tech Stack
 -Language: Python
